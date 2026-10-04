@@ -1,0 +1,16 @@
+<article class="detalle">
+  <img class="detalle__imagen" src="<%= mascota.imagen %>" alt="Ilustración de <%= mascota.nombre %>, <%= mascota.especie %>" width="240" height="240">
+  <div>
+    <p class="etiqueta"><%= mascota.especie %></p>
+    <h1><%= mascota.nombre %></h1>
+    <dl class="datos">
+      <dt>Edad</dt>
+      <dd><%= mascota.edad %> <%= mascota.edad === 1 ? "año" : "años" %></dd>
+      <dt>Estado</dt>
+      <dd><span class="estado"><%= mascota.estado %></span></dd>
+      <dt>Descripción</dt>
+      <dd><%= mascota.descripcion %></dd>
+    </dl>
+    <a class="boton" href="/mascotas">Volver al catálogo</a>
+  </div>
+</article>

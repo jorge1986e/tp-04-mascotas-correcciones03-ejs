@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Román",
+    "especie": "Perro",
+    "edad": 4,
+    "descripcion": "Jugueton y un poco terco, no te dejes engañar por su fachada de tipo duro porque es un bombon",
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Luna",
+    "especie": "Gato",
+    "edad": 2,
+    "descripcion": "Súper curiosa, alegre y llena de energía. Le encanta cazar y explorar cada rincón.",
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Francisco",
+    "especie": "Perro",
+    "edad": 6,
+    "descripcion": "Guardián, veloz y cariñoso. Le encantan recibir caricias en la panza.",
+    "estado": "Adoptada",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Michi",
+    "especie": "Gato",
+    "edad": 2,
+    "descripcion": "Curioso, cariñoso y lleno de energía.",
+    "estado": "Reservada",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Kiara",
+    "especie": "conejo",
+    "edad": 2,
+    "descripcion": "Alegría en miniatura, le encanta correr y dar saltitos de felicidad por toda la casa",
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 6,
+    "nombre": "Lucas",
+    "especie": "Loro",
+    "edad": 3,
+    "descripcion": "Ave muy alegre, le gusta imitar sonidos.",
+    "estado": "Reservada",
+    "imagen": "/img/mascota.svg"
+  }
+]
